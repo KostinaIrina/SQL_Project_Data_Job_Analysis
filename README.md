@@ -53,7 +53,7 @@ Here's the breakdown of the top **data engineer** jobs in 2023:
 - **Diverse Employers**: Companies like Engtal, Signify Technology and Meta are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety**: There's a high diversity in job titles, from Data Engineer to Director of Engineering, reflecting varied roles and specializations within data engineering.
 
-![Top Paying Roles](assets\query1.png)
+![Top Paying Roles](assets/query1.png) 
 *This graph visualising the salary for the top 10 salaries for data engineers; ChatGPT generated this graph from my SQL query results*
 
 ### 2. What skills are required for these top-paying jobs?
@@ -97,7 +97,7 @@ Here's the breakdown of the most demanded skills for data engineers in 2023, bas
 - Skills like **Hadoop, Kafka,** and **Scala** are also in demand, each with a count of 3.
 - Other skills such as **Pandas, Numpy,** and **Pyspark** show varying degrees of demand, indicating a diverse skill set requirement for data engineering roles.
 
-![Top Paying Job Skills](assets\query2.png)
+![Top Paying Job Skills](assets/query2.png)
 *This graph visualising top 10 in-demand skills for data engineers; ChatGPT generated this graph from my SQL query results*
 ### 3. What skills are most in demand for data engineer in New Zealand?
 
